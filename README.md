@@ -22,13 +22,12 @@ WebSite Practice with Javascript Vanilla and Frameworks
 - [Pexels](https://www.pexels.com/)
 
 # Palette-Colors
-- [](https://color.adobe.com/es/create/color-wheel)
-- [](https://coolors.co/)
-- [](https://mycolor.space/gradient3)
-- [](https://webgradients.com/)
+- [AdobeColor](https://color.adobe.com/es/create/color-wheel)
+- [Coolors](https://coolors.co/)
+- [Mycolor](https://mycolor.space/gradient3)
+- [Webgradients](https://webgradients.com/)
 # Icons
 - [FontAwesome](https://fontawesome.com/)
-- []()
 # Font
 - [Google-fonts](https://fonts.google.com/)
 - [AdobeFonts](https://fonts.adobe.com/)
@@ -38,9 +37,17 @@ WebSite Practice with Javascript Vanilla and Frameworks
 - [Animate-CSS](https://animate.style/)
 - [Clip-path](https://bennettfeely.com/clippy/)
 
+# MediaQueries
+- [Device](https://www.mydevice.io/#compare-devices)
+
+# Material-Design
+- [Material](https://material.io/)
+
+# Editor-Markdown
+- [Editor](https://pandao.github.io/editor.md/en.html)
 # MIT LICENSE
 
-- [ChoseAlicense](https://choosealicense.com/)
+- [Choosealicense](https://choosealicense.com/)
 
 MIT License
 
