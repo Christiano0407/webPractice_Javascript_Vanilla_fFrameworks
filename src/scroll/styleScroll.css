@@ -21,5 +21,59 @@ img {
     background-position: center;
 }
 body {
-    
+    font-family: 'Lato', sans-serif;
+}
+section {
+    height: 100vh;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one {
+    background-color: aqua;
+}
+.two {
+    background-color: blueviolet;
+}
+.three {
+   background-color: pink;
+}
+.four {
+   background-color:red;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    height: 95vh;
+    padding: 3rem calc((100vw - 1300px) / 2);
+}
+.column-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: #000000;
+    padding: 0rem 2rem;
+}
+.column-left h1 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.column-left p {
+    margin-bottom: 2rem;
+    font-size: 4rem;
+    line-height: 1.1;
+
+}
+
+
+
+.image {
+ width: 100%;
+ height: 100%;
+ max-width: 500px;
+ max-height: 700px;
+ object-fit: cover;
 }
