@@ -105,3 +105,11 @@ button {
  max-height: 700px;
  object-fit: cover;
 }
+
+          /*Media Queries*/
+
+@media screen and (max-width: 768px) {
+    .container {
+        grid-template-columns: 1fr;
+    }
+}
