@@ -40,7 +40,7 @@ section {
    background-color: pink;
 }
 .four {
-   background-color:red;
+   background-color:#000;
 }
 .container {
     display: grid;
@@ -68,8 +68,36 @@ section {
 
 }
 
-
-
+button {
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50px;
+}
+ .bOne {
+    background-color: violet;
+}
+.bTwo {
+    background-color: aquamarine;
+}
+.bThree{
+    background-color: #000;
+}
+.bFour {
+    color: #000;
+    background-color: #fff;
+}
+.column-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 2rem;
+}
+.text {
+    color: #fff;
+}
 .image {
  width: 100%;
  height: 100%;
